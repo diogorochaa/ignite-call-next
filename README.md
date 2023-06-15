@@ -42,7 +42,7 @@ $ cd ignite-call-next
 $ npm install
 
 # Run the project
-$ npm start
+$ npm run dev
 
 # The server will initialize in the <http://localhost:3000>
 
